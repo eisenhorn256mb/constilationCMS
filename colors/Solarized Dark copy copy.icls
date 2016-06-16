@@ -1,4 +1,4 @@
-<scheme name="Solarized Dark copy" version="142" parent_scheme="Default">
+<scheme name="Solarized Dark copy copy" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
@@ -1494,6 +1494,12 @@
     <option name="Object">
       <value>
         <option name="FOREGROUND" value="b58800" />
+      </value>
+    </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="e40000" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
